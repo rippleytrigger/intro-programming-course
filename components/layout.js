@@ -21,6 +21,7 @@ function Layout({ children }) {
             twitter={courseInfo.social.twitter}
             github={courseInfo.social.github}
             linkedin={courseInfo.social.linkedin}
+            instagram={courseInfo.social.instagram}
           />
         </div>
       </HeaderProvider>

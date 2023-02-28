@@ -1,18 +1,19 @@
 {
   "author": {
-    "name": "Brian Holt",
-    "company": "Stripe"
+    "name": "Marcos López",
+    "company": "Desarrollador Web Fullstack"
   },
-  "title": "Next.js Course Starter Kit",
-  "subtitle": "for Frontend Masters",
-  "frontendMastersLink": "https://frontendmasters.com/courses/complete-react-v6/",
+  "title": "Curso de programación para principiantes",
+  "subtitle": "por Marcos López",
+  "frontendMastersLink": "",
   "social": {
-    "linkedin": "btholt",
-    "github": "btholt",
-    "twitter": "holtbt"
+    "linkedin": "rippleytrigger",
+    "github": "rippleytrigger",
+    "twitter": "rippleytrigger97",
+    "instagram": "music.marcmel"
   },
-  "description": "A starter kit for making really amazing courses, optimized for Frontend Masters",
-  "keywords": ["your", "Google", "keywords", "here"],
-  "productionBaseUrl": "/next-course-starter",
+  "description": "Curso de introductorio de programación",
+  "keywords": ["Programming", "Introduction", "Computer Science", "Javascript", "HTML", "CSS3"],
+  "productionBaseUrl": "/intro-programming-course",
   "csvPath": "./out/lessons.csv"
 }

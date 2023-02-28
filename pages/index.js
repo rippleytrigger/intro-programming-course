@@ -52,11 +52,11 @@ export default function Lessons({ sections }) {
         </div>
         {courseInfo.frontendMastersLink ? (
           <a href={courseInfo.frontendMastersLink} className="cta-btn">
-            Watch on Frontend Masters
+            Ver mi página web
           </a>
         ) : null}
         <div className="main-card">
-          <h1 className="lesson-title">Table of Contents</h1>
+          <h1 className="lesson-title">Tabla de Contenidos</h1>
           <div className="lesson-content">
             <ol className="sections-name">
               {sections.map((section) => (
